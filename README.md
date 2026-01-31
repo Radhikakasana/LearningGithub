@@ -1,3 +1,3 @@
 # LearningGithub
 This is my first Repository. <br>
-Author- Radhika kasana.
+Author- Radhika kasana. (a woman)
